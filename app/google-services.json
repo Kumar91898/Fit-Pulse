@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "258594751861",
+    "project_id": "fit-pulse-a5a9d",
+    "storage_bucket": "fit-pulse-a5a9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258594751861:android:775d204f232106b2997f3c",
+        "android_client_info": {
+          "package_name": "com.kumar.fitpulse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsFRtPW5Hj9hheF_aLNV4Po6ULiLyVx5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
